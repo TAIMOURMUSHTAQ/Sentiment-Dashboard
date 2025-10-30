@@ -387,8 +387,4 @@ Original file is located at
 # st.markdown("---")
 # st.caption("Built with ❤️  contact me if you'd like a custom version for your business Regard Taimour_AI.")
 
-# Commented out IPython magic to ensure Python compatibility.
-# %pip install streamlit
-
-!streamlit run app.py
 
